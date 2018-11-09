@@ -1,0 +1,12 @@
+{
+  "name": "spryker-feature/reorder",
+  "description": "Reorder [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/cart": "~2018.11.0",
+    "spryker-shop/customer-reorder-widget": "^4.1.0"
+  }
+}
