@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/cart": "~201903.0",
+    "spryker-feature/cart": "^201902.0",
     "spryker-shop/customer-reorder-widget": "^4.1.0"
   }
 }
