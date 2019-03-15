@@ -1,6 +1,6 @@
 # Spryker Feature: Reorder
 
-Repeat previous order
+The Reorder features allows the shop customers to repeat their previous orders in just one click.
 
 ## Installation
 
