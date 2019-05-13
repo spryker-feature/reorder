@@ -7,12 +7,12 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/cart": "^201903.0",
+    "spryker-feature/cart": "^201906.0",
     "spryker-shop/customer-reorder-widget": "^4.2.0"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "201903.x-dev"
+      "dev-master": "201906.x-dev"
     }
   }
 }
