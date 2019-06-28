@@ -8,7 +8,7 @@
   "require": {
     "php": ">=7.1",
     "spryker-feature/cart": "^201906.0",
-    "spryker-shop/customer-reorder-widget": "^5.0.0"
+    "spryker-shop/customer-reorder-widget": "^6.0.0"
   },
   "extra": {
     "branch-alias": {
