@@ -1,20 +1,20 @@
 {
-  "name": "spryker-feature/reorder",
-  "description": "Reorder [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker-shop/customer-reorder-widget": "^6.9.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/reorder",
+    "description": "Reorder [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker-shop/customer-reorder-widget": "^6.11.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/cart": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/cart": "Recommended feature dependency."
-  }
 }
