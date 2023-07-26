@@ -7,11 +7,11 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.0",
-        "spryker-shop/customer-reorder-widget": "^6.13.0"
+        "spryker-shop/customer-reorder-widget": "^6.15.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202212.x-dev"
+            "dev-master": "202307.x-dev"
         }
     },
     "suggest": {
