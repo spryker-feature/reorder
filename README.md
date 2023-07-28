@@ -2,6 +2,8 @@
 
 The Reorder features allows the shop customers to repeat their previous orders in just one click.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/customer-relationship-management/202307.0/reorder-feature-overview.html)
+
 ## Installation
 
 ```
