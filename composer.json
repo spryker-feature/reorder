@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.0",
-        "spryker-shop/customer-reorder-widget": "^6.15.0"
+        "spryker-shop/customer-reorder-widget": "^6.16.0"
     },
     "extra": {
         "branch-alias": {
