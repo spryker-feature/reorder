@@ -16,4 +16,8 @@ composer require spryker-feature/reorder
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
+- [CartReorderExtension ^1.0.0](https://github.com/spryker/cart-reorder-extension) (Extension)
+- [Shop.CartReorderPageExtension ^1.0.0](https://github.com/spryker-shop/cart-reorder-page-extension) (Extension)
+- [CartReorderRestApi ^0.1.0](https://github.com/spryker/cart-reorder-rest-api) (Legacy Glue)
+- [CartReorderRestApiExtension ^1.0.0](https://github.com/spryker/cart-reorder-rest-api-extension) (Extension)
 - [Shop.CustomerReorderWidgetExtension ^1.3.0](https://github.com/spryker-shop/customer-reorder-widget-extension) (Extension)
